@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item><item name="android:colorAccent">#BCE5B2</item><item name="android:windowBackground">#101916</item><item name="android:statusBarColor">#101916</item><item name="android:navigationBarColor">#101916</item><item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="EditorTheme" parent="android:style/Theme.Material.Dialog.NoActionBar">
+        <item name="android:colorAccent">#BCE5B2</item><item name="android:windowBackground">@drawable/widget_bg</item><item name="android:windowMinWidthMajor">85%</item><item name="android:windowMinWidthMinor">90%</item>
+    </style>
+</resources>
